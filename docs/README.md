@@ -2,7 +2,13 @@
 
 ## A Descoberta de Conhecimento em Base de Dados (KDD)
 
-- [Aula](https://github.com/jacksonn455/kdd-topicos-especiais-computacao/blob/main/docs/T%C3%B3picos%20Especiais%20em%20Computa%C3%A7%C3%A3o%20I%20-%20A%20descoberta%20de%20conhecimento%20em%20base%20de%20dados%20(KDD)%20-%20COD%207737198.pdf)
+- [Aula]([https://github.com/jacksonn455/kdd-topicos-especiais-computacao/blob/main/docs/T%C3%B3picos%20Especiais%20em%20Computa%C3%A7%C3%A3o%20I%20-%20A%20descoberta%20de%20conhecimento%20em%20base%20de%20dados%20(KDD)%20-%20COD%207737198.pdf](https://youtu.be/QlFJu0f3zyg?si=lF_qU21pCEOHJ8C1))
+
+- [Video Aula Parte I](https://youtu.be/QlFJu0f3zyg?si=lF_qU21pCEOHJ8C1)
+
+- [Video Aula Parte II](https://youtu.be/y9poBzV9Y8U?si=hZcMMZI-APdqEfX6)
+ 
+- [Video Aula Parte III](https://youtu.be/ehR6KAg5GOs?si=Ry34c1foli4Fyg3f)
 
 Este repositório contém materiais e exemplos para a disciplina de Tópicos Especiais em Computação I, com foco na Descoberta de Conhecimento em Base de Dados (KDD). A KDD envolve a extração de conhecimento a partir de grandes volumes de dados, utilizando técnicas de mineração de dados e aprendizado de máquina. A seguir, estão descritos os principais tópicos abordados na matéria.
 

@@ -2,7 +2,7 @@
 
 ## A Descoberta de Conhecimento em Base de Dados (KDD)
 
-- [Aula Slides](https://youtu.be/QlFJu0f3zyg?si=lF_qU21pCEOHJ8C1](https://github.com/jacksonn455/kdd-topicos-especiais-computacao/blob/main/docs/T%C3%B3picos%20Especiais%20em%20Computa%C3%A7%C3%A3o%20I%20-%20A%20descoberta%20de%20conhecimento%20em%20base%20de%20dados%20(KDD)%20-%20COD%207737198.pdf)
+- [Aula Slides](https://github.com/jacksonn455/kdd-topicos-especiais-computacao/blob/main/docs/T%C3%B3picos%20Especiais%20em%20Computa%C3%A7%C3%A3o%20I%20-%20A%20descoberta%20de%20conhecimento%20em%20base%20de%20dados%20(KDD)%20-%20COD%207737198.pdf)
 
 - [Video Aula Parte I](https://youtu.be/QlFJu0f3zyg?si=lF_qU21pCEOHJ8C1)
 
